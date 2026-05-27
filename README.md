@@ -5,8 +5,10 @@ A simple Bash script that:
 - Checks if nmap is installed
 - Performs a fast network scan using nmap
 
-## Usage
+## Installation
 
 ```bash
+git clone https://github.com/YOUR_USERNAME/autoscanner.git
+cd autoscanner
 chmod +x autoscanner.sh
 ./autoscanner.sh
