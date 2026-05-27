@@ -9,6 +9,6 @@ A simple Bash script that:
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/autoscanner.git
-cd autoscanner
+cd autoscan
 chmod +x autoscanner.sh
 ./autoscanner.sh
