@@ -8,7 +8,7 @@ A simple Bash script that:
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/autoscanner.git
+https://github.com/manjeetpixel/autoscan.git
 cd autoscan
 chmod +x autoscanner.sh
 ./autoscanner.sh
